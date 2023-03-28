@@ -1,11 +1,12 @@
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
+import { testClick } from "common-utils";
 </script>
 
 <template>
   <div>
     <ShadowBox>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem aperiam illum tenetur aspernatur dolorem eius dolores doloremque ratione enim laborum aut harum, numquam nisi quae quaerat facilis minus quibusdam nihil.</ShadowBox>
-    <Button>123</Button>
+    <Button @click="testClick">123</Button>
     <a href="https://vitejs.dev" target="_blank">
       <img src="/vite.svg" class="logo" alt="Vite logo" />
     </a>
