@@ -1,0 +1,3 @@
+packages:
+  - 'apps/*' # project
+  - 'packages/*' # component/utils
