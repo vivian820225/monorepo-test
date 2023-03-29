@@ -1,4 +1,5 @@
 import Components from "./components";
+import "element-plus/dist/index.css";
 
 const Installer = {
   install(App) {

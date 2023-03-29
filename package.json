@@ -2,5 +2,9 @@
   "name": "vue-vite-pnpm",
   "version": "1.0.0",
   "author": "vivian",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "element-plus": "^2.3.1",
+    "vue": "^3.2.47"
+  }
 }

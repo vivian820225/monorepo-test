@@ -1,4 +1,5 @@
-import Button from "./button";
-import ShadowBox from "./shadow-box";
+import Button from "./Button";
+import ShadowBox from "./ShadowBox";
+import Pagination from "./Pagination";
 
-export default [Button, ShadowBox];
+export default [Button, ShadowBox, Pagination];

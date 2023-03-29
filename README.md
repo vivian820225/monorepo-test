@@ -1,3 +1,3 @@
 # monorepo-test
 
-Vue3 + Vite + Pnpm
+Vue3 + Element Plus + Vite + Pnpm
